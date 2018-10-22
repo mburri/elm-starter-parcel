@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "elm.compiler": "node_modules/.bin/elm",
+    "elm.formatCommand": "node_modules/.bin/elm-format"
+}

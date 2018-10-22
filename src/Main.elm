@@ -2,5 +2,6 @@ module Main exposing (main)
 
 import Html
 
-main = 
-  Html.text "Hello World from Elm!"
+
+main =
+    Html.text "Hello World from Elm!"
