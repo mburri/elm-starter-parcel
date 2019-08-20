@@ -4,4 +4,4 @@ import Html
 
 
 main =
-    Html.text "Hello World from Elm!"
+    Html.text "Elm Starter Parcel!"
