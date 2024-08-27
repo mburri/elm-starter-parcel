@@ -10,10 +10,10 @@
   "author": "Max Burri",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-elm": "^2.2.1",
-    "elm": "^0.19.1-5",
-    "elm-format": "^0.8.5",
-    "parcel": "^2.0.0",
-    "prettier": "2.5.1"
+    "@parcel/transformer-elm": "^2.12.0",
+    "elm": "^0.19.1-6",
+    "elm-format": "^0.8.7",
+    "parcel": "^2.12.0",
+    "prettier": "3.3.3"
   }
 }
